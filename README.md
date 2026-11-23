@@ -10,7 +10,7 @@ This repository contains the collected literature, structured relevance notes, a
 ├── references.bib                # Complete BibTeX bibliography (18 sources)
 ├── notes/
 │   └── literature_notes.md       # Per-paper relevance notes and thesis mapping
-└── papers/                       # Collected open-access PDFs (01-18)
+└── papers/                       # Collected open-access PDFs
 ```
 
 * Detailed notes and thesis mappings: [`notes/literature_notes.md`](notes/literature_notes.md)
